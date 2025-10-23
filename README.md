@@ -1,3 +1,17 @@
+
+
+
+
+<img width="973" height="778" alt="Ekran görüntüsü 2025-10-23 153148" src="https://github.com/user-attachments/assets/f9ca0aa0-32ae-40c7-a99f-2d191695c70b" />
+
+
+
+
+
+
+
+
+
 LexicalAnalyzer
 LexicalAnalyzer, C# dili ile geliştirilmiş bir leksik analiz (tokenizer) aracıdır. Bu proje, temel olarak bir kaynak kod dosyasını alıp içerisindeki dil öğelerini (token) tanımlar ve sınıflandırır. Derleyici tasarımı ve programlama dilleri üzerinde çalışma yapmak isteyenler için eğitim amaçlı olarak hazırlanmıştır.
 
